@@ -1,6 +1,6 @@
 {
   "Thursday 24th July 2025 - Schedule Time UK GMT": {
-    "TV Shows": [
+    "Soccer": [
       {
         "time": "16:00",
         "event": "World Chase Tag New",
@@ -487,9 +487,7 @@
           }
         ],
         "channels2": []
-      }
-    ],
-    "Soccer": [
+      },
       {
         "time": "09:00",
         "event": "Interclub friendly : Cadiz vs Las Palmas",
@@ -1976,9 +1974,7 @@
             "scheme": "0"
           }
         ]
-      }
-    ],
-    "Cricket": [
+      },
       {
         "time": "04:30",
         "event": "Afghanistan - Shpageeza League : AMO Sharks vs Speen Ghar Tigers",
@@ -2151,9 +2147,7 @@
             "scheme": "0"
           }
         ]
-      }
-    ],
-    "Tennis ATP - KITZBUHEL": [
+      },
       {
         "time": "09:00",
         "event": "ATP - KITZBUHEL : Rinderknech A. vs Hanfmann Y.",
@@ -2205,9 +2199,7 @@
           }
         ],
         "channels2": []
-      }
-    ],
-    "Tennis ATP - UMAG": [
+      },
       {
         "time": "14:30",
         "event": "ATP - UMAG : Llamas Ruiz P. vs Ugo Carabelli C.",
@@ -2246,9 +2238,7 @@
           }
         ],
         "channels2": []
-      }
-    ],
-    "Tennis ATP - WASHINGTON": [
+      },
       {
         "time": "15:00",
         "event": "ATP - WASHINGTON : Medvedev D. vs Wu Y.",
@@ -2352,9 +2342,7 @@
           }
         ],
         "channels2": []
-      }
-    ],
-    "Tennis WTA - PRAGUE": [
+      },
       {
         "time": "09:00",
         "event": "WTA - PRAGUE : Ponchet J. vs Valentova T.",
@@ -2406,9 +2394,7 @@
           }
         ],
         "channels2": []
-      }
-    ],
-    "Tennis WTA - WASHINGTON": [
+      },
       {
         "time": "17:00",
         "event": "WTA - WASHINGTON : Raducanu E. vs Osaka N.",
@@ -2479,9 +2465,7 @@
           }
         ],
         "channels2": []
-      }
-    ],
-    "Tennis": [
+      },
       {
         "time": "09:00",
         "event": "Courtside - Live Kitzbuhel-ATP &amp; Prague-WTA Day-4",
@@ -3358,9 +3342,7 @@
             "scheme": "0"
           }
         ]
-      }
-    ],
-    "Badminton": [
+      },
       {
         "time": "02:00",
         "event": "China Open BWF World Tour",
@@ -3561,9 +3543,7 @@
             "scheme": "0"
           }
         ]
-      }
-    ],
-    "Motorsport": [
+      },
       {
         "time": "17:00",
         "event": "Swedish Elitserien League Speedway : Indianerna vs. Ikaros Smederna",
@@ -3588,9 +3568,7 @@
           }
         ],
         "channels2": []
-      }
-    ],
-    "Boxing": [
+      },
       {
         "time": "01:00",
         "event": "Boxing : Manuel Flores vs Jorge Chavez",
@@ -3603,9 +3581,7 @@
           }
         ],
         "channels2": []
-      }
-    ],
-    "Field Hockey": [
+      },
       {
         "time": "23:30",
         "event": "Pan American Cup Women : Argentina W vs Uruguay W",
@@ -3618,9 +3594,7 @@
           }
         ],
         "channels2": []
-      }
-    ],
-    "WWE": [
+      },
       {
         "time": "00:00",
         "event": "TNA iMPACT!",
@@ -3639,9 +3613,7 @@
           }
         ],
         "channels2": []
-      }
-    ],
-    "Golf": [
+      },
       {
         "time": "08:30",
         "event": "Ladies European Tour ISPS Handa Women's Scottish Open",
@@ -3806,9 +3778,7 @@
           }
         ],
         "channels2": []
-      }
-    ],
-    "Snooker": [
+      },
       {
         "time": "10:00",
         "event": "World Pool Championship Day 4 - Green Halls in Jeddah, Saudi Arabia",
@@ -3884,9 +3854,7 @@
           }
         ],
         "channels2": []
-      }
-    ],
-    "Am. Football": [
+      },
       {
         "time": "01:00",
         "event": "CFL : Calgary Stampeders vs Montreal Alouettes",
@@ -3929,9 +3897,7 @@
           }
         ],
         "channels2": []
-      }
-    ],
-    "Aussie rules": [
+      },
       {
         "time": "09:30",
         "event": "AFL : Hawthorn Hawks vs Carlton Blues",
@@ -3950,9 +3916,7 @@
           }
         ],
         "channels2": []
-      }
-    ],
-    "Baseball": [
+      },
       {
         "time": "14:00",
         "event": "Little League Softball Little League softball coverage",
@@ -4306,9 +4270,7 @@
           }
         ],
         "channels2": []
-      }
-    ],
-    "Basketball": [
+      },
       {
         "time": "23:00",
         "event": "WNBA : Connecticut Sun W vs Los Angeles Sparks W",
@@ -4392,9 +4354,7 @@
             "scheme": "0"
           }
         ]
-      }
-    ],
-    "Cycling": [
+      },
       {
         "time": "11:00",
         "event": "Tour de France UCI World Tour Stage 18 - Vif to Courchevel Mountain | 171 km | 5450 m",
@@ -4479,9 +4439,7 @@
           }
         ],
         "channels2": []
-      }
-    ],
-    "Darts": [
+      },
       {
         "time": "19:00",
         "event": "PDC Darts 2x Quarter-Final Matches - Winter Gardens, Blackpool",
@@ -4524,9 +4482,7 @@
           }
         ],
         "channels2": []
-      }
-    ],
-    "Horse Racing": [
+      },
       {
         "time": "12:00",
         "event": "Live racing from around the UK",
@@ -4591,9 +4547,7 @@
           }
         ],
         "channels2": []
-      }
-    ],
-    "Rugby League": [
+      },
       {
         "time": "10:00",
         "event": "National Rugby League : Sydney Roosters vs Melbourne Storm",
@@ -4643,9 +4597,7 @@
           }
         ],
         "channels2": []
-      }
-    ],
-    "Volleyball": [
+      },
       {
         "time": "14:30",
         "event": "Nations League Women : Japan W vs Turkey W",
@@ -4738,9 +4690,7 @@
           }
         ],
         "channels2": []
-      }
-    ],
-    "Water polo": [
+      },
       {
         "time": "09:30",
         "event": "World Championship - Play Offs : Greece vs Serbia",
@@ -4796,9 +4746,7 @@
           }
         ],
         "channels2": []
-      }
-    ],
-    "Water Sports": [
+      },
       {
         "time": "11:30",
         "event": "World Championship: Final",
