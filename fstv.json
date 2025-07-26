@@ -2,8 +2,8 @@
   "Saturday 26th July 2025 - Schedule Time UK GMT": {
     "Soccer": [
       {
-        "time": "14:00",
-        "event": "1st Qualifying | Circuit de Spa-Francorchamps |Watch",
+        "time": "14:22",
+        "event": "2nd Qualifying | Circuit de Spa-Francorchamps |Watch",
         "channels": [
           {
             "name": "Server-1",
@@ -22,12 +22,6 @@
             "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDU1YzcxM2M4NDQ5LWIyYWEtNmE4NC0xMzY0LWZlMWUxYTc3/master.m3u8",
             "api": "",
             "scheme": "0"
-          },
-          {
-            "name": "Server-5",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OTFhYjY4MDllNTZhLTIyMDgtNGUxNC0wNzEwLTc2NmI0ODhk/master.m3u8",
-            "api": "",
-            "scheme": "0"
           }
         ],
         "channels2": []
@@ -47,7 +41,7 @@
       },
       {
         "time": "13:00",
-        "event": "AZ Alkmaar0-1Olympiakos PiraeusWatch",
+        "event": "AZ Alkmaar0-2Olympiakos PiraeusWatch",
         "channels": [
           {
             "name": "Server-1",
@@ -73,7 +67,7 @@
       },
       {
         "time": "13:00",
-        "event": "Rangers0-1MiddlesbroughWatch",
+        "event": "Rangers1-2MiddlesbroughWatch",
         "channels": [
           {
             "name": "Server-1",
@@ -150,7 +144,7 @@
       },
       {
         "time": "12:45",
-        "event": "Piast Gliwice0-0Gornik ZabrzeWatch",
+        "event": "Piast Gliwice0-1Gornik ZabrzeWatch",
         "channels": [
           {
             "name": "Server-1",
@@ -182,7 +176,20 @@
       },
       {
         "time": "13:00",
-        "event": "IF Brommapojkarna1-1Malmo FFWatch",
+        "event": "Gais3-0HalmstadWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1Y2JlNWExNDYwZjQ5LWIxZjgtZDg4NC1kMGJhLTVlN2I1YWQ5/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "13:00",
+        "event": "IF Brommapojkarna2-3Malmo FFWatch",
         "channels": [
           {
             "name": "Server-1",
@@ -257,810 +264,8 @@
         "channels2": []
       },
       {
-        "time": "08:30",
-        "event": "WorldSBK-SSP | Round 8 | HungaryWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NGY2YTlkMjFlMzNiLTNlN2ItZTQ4NC1jMWVjLWY5ZjU0Mzg5/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "13:00",
-        "event": "AZ Alkmaar0-1Olympiakos PiraeusWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWU2NGJkMWRmZTM1LWFhOWEtZGU4NC1mN2Y1LWM5YTA4ODk3/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "13:00",
-        "event": "Hamburger SV0-3LyonWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDg4OGIzN2Y1YzVlLWU3ZWEtNTVmNC02Mzg1LTY5NzY0NjUz/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "13:00",
-        "event": "Rangers0-1MiddlesbroughWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZTkwZTUzMTE3MjEwLWYyM2ItNjE4NC04ZjVkLWNlY2ZiOWI2/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "14:00",
-        "event": "Luton0-0TottenhamWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YmU1MGM2ZDM3MzUzLTE0MjktODk3NC1lMDU5LWYxYTU2YTlh/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          },
-          {
-            "name": "Server-2",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NzJhZTA0ODBkNjlkLThiZDgtZjIyNC02NzM5LTJlYmVmMjYw/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "14:00",
-        "event": "Stoke City0-0WolvesWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NjE4YmE5OWMzMmQxLTEwNjktZTM0NC1jOTY0LTNlOGM3ZDU2/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          },
-          {
-            "name": "Server-2",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NjU5NGU0NzYwMGEwLTIwZmItMWNiNC1iMDI4LTYzZmM5NjU3/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "14:00",
-        "event": "Hull FCvsHuddersfield GiantsWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MjVhMzNjZTkxZTdkLWRmZGItMWM4NC03Y2Q3LWU2NjQyMWU5/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "12:45",
-        "event": "Piast Gliwice0-0Gornik ZabrzeWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YmJkOTI5YjUyZjQ3LTVlMzgtYjBiNC03YTg2LTY2MGZlN2Y4/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "09:00",
-        "event": "ATP Tour 250 Bastad, Gstaad, Los Cabos, WTA Tour 250 Budapest, Hamburg, Iasi  🎾Watch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1N2RiNWY4OGU0MWUwLTk5MmEtZDk2NC1jZDM3LTE0Yzg5ZDUz/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          },
-          {
-            "name": "Server-2",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmNhYTQ1ODQ5MGE2LTljYTktZGY1NC01NDRlLWMyZTQ3NjBm/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "13:00",
-        "event": "IF Brommapojkarna1-1Malmo FFWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTgwODFiMzBlYjNjLTcyMzktZTUwNC0wOWRkLTY3NzE3NWUy/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "12:30",
-        "event": "Senior Open Championship\t2025 - Third RoundWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZTg2ZTEzZTk2ZTQzLThiMmEtYzkxNC04ODNhLTM5MThlZGQz/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          },
-          {
-            "name": "Server-2",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NmNmOTRlN2Q4ZDg2LTlhNTktYjEyNC1iZGVkLWEzNjI5NzBh/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          },
-          {
-            "name": "Server-3",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWQwNWM4NGU1NzQ0LWIzZTgtOTUyNC0wMjA2LWNjMWE3YTQw/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "09:15",
-        "event": "EnglandvsIndiaWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YjgyMDkyMDlhMTc0LTVmZmItMGQ4NC01NzcyLWY3ZDU2ODM1/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          },
-          {
-            "name": "Server-2",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OTE2YjUwMDY3YzhlLTAzYzgtOTNlNC1lYzBkLWIzNjVmN2Uy/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "10:30",
-        "event": "West IndiesvsAustraliaWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZDU3NjA3NzY4OTFjLWRkNzktMjE4NC1lN2E1LTkwNWRmY2Fm/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "09:45",
-        "event": "Tour de France | Stage 20 - Men | The Breakaway 🚴Watch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NTE5MmVjYzhmYTE3LWZkMDgtZDQ2NC0xMzU3LWE5MmE0Mzk3/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          },
-          {
-            "name": "Server-2",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWQwNWM4NGU1NzQ0LWIzZTgtOTUyNC0wMjA2LWNjMWE3YTQw/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "08:30",
-        "event": "WorldSBK-SSP | Round 8 | HungaryWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NGY2YTlkMjFlMzNiLTNlN2ItZTQ4NC1jMWVjLWY5ZjU0Mzg5/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "13:00",
-        "event": "AZ Alkmaar0-1Olympiakos PiraeusWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWU2NGJkMWRmZTM1LWFhOWEtZGU4NC1mN2Y1LWM5YTA4ODk3/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "13:00",
-        "event": "Hamburger SV0-3LyonWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDg4OGIzN2Y1YzVlLWU3ZWEtNTVmNC02Mzg1LTY5NzY0NjUz/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "14:00",
-        "event": "Luton0-0TottenhamWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YmU1MGM2ZDM3MzUzLTE0MjktODk3NC1lMDU5LWYxYTU2YTlh/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          },
-          {
-            "name": "Server-2",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NzJhZTA0ODBkNjlkLThiZDgtZjIyNC02NzM5LTJlYmVmMjYw/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "14:00",
-        "event": "Stoke City0-0WolvesWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NjE4YmE5OWMzMmQxLTEwNjktZTM0NC1jOTY0LTNlOGM3ZDU2/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          },
-          {
-            "name": "Server-2",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NjU5NGU0NzYwMGEwLTIwZmItMWNiNC1iMDI4LTYzZmM5NjU3/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "10:00",
-        "event": "MXGP of Czech Republic: Day 1Watch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LhVGN4gTZxgTM0Y2NtcTNmFWLjNmM00SM3EGMtUzM0kjN3MTO/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "14:00",
-        "event": "Hull FCvsHuddersfield GiantsWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MjVhMzNjZTkxZTdkLWRmZGItMWM4NC03Y2Q3LWU2NjQyMWU5/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "12:45",
-        "event": "Piast Gliwice0-0Gornik ZabrzeWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YmJkOTI5YjUyZjQ3LTVlMzgtYjBiNC03YTg2LTY2MGZlN2Y4/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "09:00",
-        "event": "ATP Tour 250 Bastad, Gstaad, Los Cabos, WTA Tour 250 Budapest, Hamburg, Iasi  🎾Watch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1N2RiNWY4OGU0MWUwLTk5MmEtZDk2NC1jZDM3LTE0Yzg5ZDUz/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          },
-          {
-            "name": "Server-2",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmNhYTQ1ODQ5MGE2LTljYTktZGY1NC01NDRlLWMyZTQ3NjBm/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "13:00",
-        "event": "Gais2-0HalmstadWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1Y2JlNWExNDYwZjQ5LWIxZjgtZDg4NC1kMGJhLTVlN2I1YWQ5/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "12:30",
-        "event": "Senior Open Championship\t2025 - Third RoundWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZTg2ZTEzZTk2ZTQzLThiMmEtYzkxNC04ODNhLTM5MThlZGQz/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          },
-          {
-            "name": "Server-2",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NmNmOTRlN2Q4ZDg2LTlhNTktYjEyNC1iZGVkLWEzNjI5NzBh/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          },
-          {
-            "name": "Server-3",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWQwNWM4NGU1NzQ0LWIzZTgtOTUyNC0wMjA2LWNjMWE3YTQw/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "10:30",
-        "event": "West IndiesvsAustraliaWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZDU3NjA3NzY4OTFjLWRkNzktMjE4NC1lN2E1LTkwNWRmY2Fm/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "08:30",
-        "event": "WorldSBK-SSP | Round 8 | HungaryWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NGY2YTlkMjFlMzNiLTNlN2ItZTQ4NC1jMWVjLWY5ZjU0Mzg5/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "13:00",
-        "event": "AZ Alkmaar0-1Olympiakos PiraeusWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWU2NGJkMWRmZTM1LWFhOWEtZGU4NC1mN2Y1LWM5YTA4ODk3/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "13:00",
-        "event": "Hamburger SV0-3LyonWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDg4OGIzN2Y1YzVlLWU3ZWEtNTVmNC02Mzg1LTY5NzY0NjUz/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "14:00",
-        "event": "Luton0-0TottenhamWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YmU1MGM2ZDM3MzUzLTE0MjktODk3NC1lMDU5LWYxYTU2YTlh/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          },
-          {
-            "name": "Server-2",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NzJhZTA0ODBkNjlkLThiZDgtZjIyNC02NzM5LTJlYmVmMjYw/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "10:00",
-        "event": "MXGP of Czech Republic: Day 1Watch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LhVGN4gTZxgTM0Y2NtcTNmFWLjNmM00SM3EGMtUzM0kjN3MTO/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "14:00",
-        "event": "Hull FCvsHuddersfield GiantsWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MjVhMzNjZTkxZTdkLWRmZGItMWM4NC03Y2Q3LWU2NjQyMWU5/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "12:45",
-        "event": "Piast Gliwice0-0Gornik ZabrzeWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YmJkOTI5YjUyZjQ3LTVlMzgtYjBiNC03YTg2LTY2MGZlN2Y4/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "13:00",
-        "event": "Gais2-0HalmstadWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1Y2JlNWExNDYwZjQ5LWIxZjgtZDg4NC1kMGJhLTVlN2I1YWQ5/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "13:00",
-        "event": "IF Brommapojkarna1-1Malmo FFWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTgwODFiMzBlYjNjLTcyMzktZTUwNC0wOWRkLTY3NzE3NWUy/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "12:30",
-        "event": "Senior Open Championship\t2025 - Third RoundWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZTg2ZTEzZTk2ZTQzLThiMmEtYzkxNC04ODNhLTM5MThlZGQz/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          },
-          {
-            "name": "Server-2",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NmNmOTRlN2Q4ZDg2LTlhNTktYjEyNC1iZGVkLWEzNjI5NzBh/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          },
-          {
-            "name": "Server-3",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWQwNWM4NGU1NzQ0LWIzZTgtOTUyNC0wMjA2LWNjMWE3YTQw/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "10:30",
-        "event": "West IndiesvsAustraliaWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZDU3NjA3NzY4OTFjLWRkNzktMjE4NC1lN2E1LTkwNWRmY2Fm/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "09:45",
-        "event": "Tour de France | Stage 20 - Men | The Breakaway 🚴Watch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NTE5MmVjYzhmYTE3LWZkMDgtZDQ2NC0xMzU3LWE5MmE0Mzk3/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          },
-          {
-            "name": "Server-2",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWQwNWM4NGU1NzQ0LWIzZTgtOTUyNC0wMjA2LWNjMWE3YTQw/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "08:30",
-        "event": "WorldSBK-SSP | Round 8 | HungaryWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NGY2YTlkMjFlMzNiLTNlN2ItZTQ4NC1jMWVjLWY5ZjU0Mzg5/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "13:00",
-        "event": "AZ Alkmaar0-1Olympiakos PiraeusWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWU2NGJkMWRmZTM1LWFhOWEtZGU4NC1mN2Y1LWM5YTA4ODk3/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "13:00",
-        "event": "Hamburger SV0-3LyonWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDg4OGIzN2Y1YzVlLWU3ZWEtNTVmNC02Mzg1LTY5NzY0NjUz/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "13:00",
-        "event": "Rangers0-1MiddlesbroughWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZTkwZTUzMTE3MjEwLWYyM2ItNjE4NC04ZjVkLWNlY2ZiOWI2/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "14:00",
-        "event": "Stoke City0-0WolvesWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NjE4YmE5OWMzMmQxLTEwNjktZTM0NC1jOTY0LTNlOGM3ZDU2/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          },
-          {
-            "name": "Server-2",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NjU5NGU0NzYwMGEwLTIwZmItMWNiNC1iMDI4LTYzZmM5NjU3/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "10:00",
-        "event": "MXGP of Czech Republic: Day 1Watch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LhVGN4gTZxgTM0Y2NtcTNmFWLjNmM00SM3EGMtUzM0kjN3MTO/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "14:00",
-        "event": "Hull FCvsHuddersfield GiantsWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MjVhMzNjZTkxZTdkLWRmZGItMWM4NC03Y2Q3LWU2NjQyMWU5/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "12:45",
-        "event": "Piast Gliwice0-0Gornik ZabrzeWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YmJkOTI5YjUyZjQ3LTVlMzgtYjBiNC03YTg2LTY2MGZlN2Y4/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "09:00",
-        "event": "ATP Tour 250 Bastad, Gstaad, Los Cabos, WTA Tour 250 Budapest, Hamburg, Iasi  🎾Watch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1N2RiNWY4OGU0MWUwLTk5MmEtZDk2NC1jZDM3LTE0Yzg5ZDUz/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          },
-          {
-            "name": "Server-2",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmNhYTQ1ODQ5MGE2LTljYTktZGY1NC01NDRlLWMyZTQ3NjBm/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "13:00",
-        "event": "Gais2-0HalmstadWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1Y2JlNWExNDYwZjQ5LWIxZjgtZDg4NC1kMGJhLTVlN2I1YWQ5/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "13:00",
-        "event": "IF Brommapojkarna1-1Malmo FFWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTgwODFiMzBlYjNjLTcyMzktZTUwNC0wOWRkLTY3NzE3NWUy/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "12:30",
-        "event": "Senior Open Championship\t2025 - Third RoundWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZTg2ZTEzZTk2ZTQzLThiMmEtYzkxNC04ODNhLTM5MThlZGQz/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          },
-          {
-            "name": "Server-2",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NmNmOTRlN2Q4ZDg2LTlhNTktYjEyNC1iZGVkLWEzNjI5NzBh/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          },
-          {
-            "name": "Server-3",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWQwNWM4NGU1NzQ0LWIzZTgtOTUyNC0wMjA2LWNjMWE3YTQw/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "09:15",
-        "event": "EnglandvsIndiaWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YjgyMDkyMDlhMTc0LTVmZmItMGQ4NC01NzcyLWY3ZDU2ODM1/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          },
-          {
-            "name": "Server-2",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OTE2YjUwMDY3YzhlLTAzYzgtOTNlNC1lYzBkLWIzNjVmN2Uy/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "10:30",
-        "event": "West IndiesvsAustraliaWatch",
-        "channels": [
-          {
-            "name": "Server-1",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZDU3NjA3NzY4OTFjLWRkNzktMjE4NC1lN2E1LTkwNWRmY2Fm/master.m3u8",
-            "api": "",
-            "scheme": "0"
-          }
-        ],
-        "channels2": []
-      },
-      {
-        "time": "14:00",
-        "event": "1st Qualifying | Circuit de Spa-Francorchamps |Watch",
+        "time": "14:22",
+        "event": "2nd Qualifying | Circuit de Spa-Francorchamps |Watch",
         "channels": [
           {
             "name": "Server-1",
@@ -1079,10 +284,210 @@
             "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDU1YzcxM2M4NDQ5LWIyYWEtNmE4NC0xMzY0LWZlMWUxYTc3/master.m3u8",
             "api": "",
             "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "08:30",
+        "event": "WorldSBK-SSP | Round 8 | HungaryWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NGY2YTlkMjFlMzNiLTNlN2ItZTQ4NC1jMWVjLWY5ZjU0Mzg5/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "13:00",
+        "event": "AZ Alkmaar0-2Olympiakos PiraeusWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWU2NGJkMWRmZTM1LWFhOWEtZGU4NC1mN2Y1LWM5YTA4ODk3/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "13:00",
+        "event": "Hamburger SV0-3LyonWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDg4OGIzN2Y1YzVlLWU3ZWEtNTVmNC02Mzg1LTY5NzY0NjUz/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "13:00",
+        "event": "Rangers1-2MiddlesbroughWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZTkwZTUzMTE3MjEwLWYyM2ItNjE4NC04ZjVkLWNlY2ZiOWI2/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "14:00",
+        "event": "Luton0-0TottenhamWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YmU1MGM2ZDM3MzUzLTE0MjktODk3NC1lMDU5LWYxYTU2YTlh/master.m3u8",
+            "api": "",
+            "scheme": "0"
           },
           {
-            "name": "Server-5",
-            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OTFhYjY4MDllNTZhLTIyMDgtNGUxNC0wNzEwLTc2NmI0ODhk/master.m3u8",
+            "name": "Server-2",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NzJhZTA0ODBkNjlkLThiZDgtZjIyNC02NzM5LTJlYmVmMjYw/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "10:00",
+        "event": "MXGP of Czech Republic: Day 1Watch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LhVGN4gTZxgTM0Y2NtcTNmFWLjNmM00SM3EGMtUzM0kjN3MTO/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "14:00",
+        "event": "Hull FCvsHuddersfield GiantsWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MjVhMzNjZTkxZTdkLWRmZGItMWM4NC03Y2Q3LWU2NjQyMWU5/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "12:45",
+        "event": "Piast Gliwice0-1Gornik ZabrzeWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YmJkOTI5YjUyZjQ3LTVlMzgtYjBiNC03YTg2LTY2MGZlN2Y4/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "09:00",
+        "event": "ATP Tour 250 Bastad, Gstaad, Los Cabos, WTA Tour 250 Budapest, Hamburg, Iasi  🎾Watch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1N2RiNWY4OGU0MWUwLTk5MmEtZDk2NC1jZDM3LTE0Yzg5ZDUz/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          },
+          {
+            "name": "Server-2",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmNhYTQ1ODQ5MGE2LTljYTktZGY1NC01NDRlLWMyZTQ3NjBm/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "13:00",
+        "event": "Gais3-0HalmstadWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1Y2JlNWExNDYwZjQ5LWIxZjgtZDg4NC1kMGJhLTVlN2I1YWQ5/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "13:00",
+        "event": "IF Brommapojkarna2-3Malmo FFWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTgwODFiMzBlYjNjLTcyMzktZTUwNC0wOWRkLTY3NzE3NWUy/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "09:15",
+        "event": "EnglandvsIndiaWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YjgyMDkyMDlhMTc0LTVmZmItMGQ4NC01NzcyLWY3ZDU2ODM1/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          },
+          {
+            "name": "Server-2",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OTE2YjUwMDY3YzhlLTAzYzgtOTNlNC1lYzBkLWIzNjVmN2Uy/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "10:30",
+        "event": "West IndiesvsAustraliaWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZDU3NjA3NzY4OTFjLWRkNzktMjE4NC1lN2E1LTkwNWRmY2Fm/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "09:45",
+        "event": "Tour de France | Stage 20 - Men | The Breakaway 🚴Watch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NTE5MmVjYzhmYTE3LWZkMDgtZDQ2NC0xMzU3LWE5MmE0Mzk3/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          },
+          {
+            "name": "Server-2",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWQwNWM4NGU1NzQ0LWIzZTgtOTUyNC0wMjA2LWNjMWE3YTQw/master.m3u8",
             "api": "",
             "scheme": "0"
           }
@@ -1104,7 +509,7 @@
       },
       {
         "time": "13:00",
-        "event": "AZ Alkmaar0-1Olympiakos PiraeusWatch",
+        "event": "AZ Alkmaar0-2Olympiakos PiraeusWatch",
         "channels": [
           {
             "name": "Server-1",
@@ -1117,7 +522,7 @@
       },
       {
         "time": "13:00",
-        "event": "Rangers0-1MiddlesbroughWatch",
+        "event": "Rangers1-2MiddlesbroughWatch",
         "channels": [
           {
             "name": "Server-1",
@@ -1180,8 +585,21 @@
         "channels2": []
       },
       {
+        "time": "14:00",
+        "event": "Hull FCvsHuddersfield GiantsWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MjVhMzNjZTkxZTdkLWRmZGItMWM4NC03Y2Q3LWU2NjQyMWU5/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
         "time": "12:45",
-        "event": "Piast Gliwice0-0Gornik ZabrzeWatch",
+        "event": "Piast Gliwice0-1Gornik ZabrzeWatch",
         "channels": [
           {
             "name": "Server-1",
@@ -1213,7 +631,7 @@
       },
       {
         "time": "13:00",
-        "event": "Gais2-0HalmstadWatch",
+        "event": "Gais3-0HalmstadWatch",
         "channels": [
           {
             "name": "Server-1",
@@ -1226,11 +644,682 @@
       },
       {
         "time": "13:00",
-        "event": "IF Brommapojkarna1-1Malmo FFWatch",
+        "event": "IF Brommapojkarna2-3Malmo FFWatch",
         "channels": [
           {
             "name": "Server-1",
             "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTgwODFiMzBlYjNjLTcyMzktZTUwNC0wOWRkLTY3NzE3NWUy/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "12:30",
+        "event": "Senior Open Championship\t2025 - Third RoundWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZTg2ZTEzZTk2ZTQzLThiMmEtYzkxNC04ODNhLTM5MThlZGQz/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          },
+          {
+            "name": "Server-2",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NmNmOTRlN2Q4ZDg2LTlhNTktYjEyNC1iZGVkLWEzNjI5NzBh/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          },
+          {
+            "name": "Server-3",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWQwNWM4NGU1NzQ0LWIzZTgtOTUyNC0wMjA2LWNjMWE3YTQw/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "09:15",
+        "event": "EnglandvsIndiaWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YjgyMDkyMDlhMTc0LTVmZmItMGQ4NC01NzcyLWY3ZDU2ODM1/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          },
+          {
+            "name": "Server-2",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OTE2YjUwMDY3YzhlLTAzYzgtOTNlNC1lYzBkLWIzNjVmN2Uy/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "10:30",
+        "event": "West IndiesvsAustraliaWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZDU3NjA3NzY4OTFjLWRkNzktMjE4NC1lN2E1LTkwNWRmY2Fm/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "08:30",
+        "event": "WorldSBK-SSP | Round 8 | HungaryWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NGY2YTlkMjFlMzNiLTNlN2ItZTQ4NC1jMWVjLWY5ZjU0Mzg5/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "13:00",
+        "event": "Hamburger SV0-3LyonWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDg4OGIzN2Y1YzVlLWU3ZWEtNTVmNC02Mzg1LTY5NzY0NjUz/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "14:00",
+        "event": "Luton0-0TottenhamWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YmU1MGM2ZDM3MzUzLTE0MjktODk3NC1lMDU5LWYxYTU2YTlh/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          },
+          {
+            "name": "Server-2",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NzJhZTA0ODBkNjlkLThiZDgtZjIyNC02NzM5LTJlYmVmMjYw/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "10:00",
+        "event": "MXGP of Czech Republic: Day 1Watch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LhVGN4gTZxgTM0Y2NtcTNmFWLjNmM00SM3EGMtUzM0kjN3MTO/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "12:45",
+        "event": "Piast Gliwice0-1Gornik ZabrzeWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YmJkOTI5YjUyZjQ3LTVlMzgtYjBiNC03YTg2LTY2MGZlN2Y4/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "09:00",
+        "event": "ATP Tour 250 Bastad, Gstaad, Los Cabos, WTA Tour 250 Budapest, Hamburg, Iasi  🎾Watch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1N2RiNWY4OGU0MWUwLTk5MmEtZDk2NC1jZDM3LTE0Yzg5ZDUz/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          },
+          {
+            "name": "Server-2",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmNhYTQ1ODQ5MGE2LTljYTktZGY1NC01NDRlLWMyZTQ3NjBm/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "13:00",
+        "event": "Gais3-0HalmstadWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1Y2JlNWExNDYwZjQ5LWIxZjgtZDg4NC1kMGJhLTVlN2I1YWQ5/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "13:00",
+        "event": "IF Brommapojkarna2-3Malmo FFWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTgwODFiMzBlYjNjLTcyMzktZTUwNC0wOWRkLTY3NzE3NWUy/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "12:30",
+        "event": "Senior Open Championship\t2025 - Third RoundWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZTg2ZTEzZTk2ZTQzLThiMmEtYzkxNC04ODNhLTM5MThlZGQz/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          },
+          {
+            "name": "Server-2",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NmNmOTRlN2Q4ZDg2LTlhNTktYjEyNC1iZGVkLWEzNjI5NzBh/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          },
+          {
+            "name": "Server-3",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWQwNWM4NGU1NzQ0LWIzZTgtOTUyNC0wMjA2LWNjMWE3YTQw/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "09:15",
+        "event": "EnglandvsIndiaWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YjgyMDkyMDlhMTc0LTVmZmItMGQ4NC01NzcyLWY3ZDU2ODM1/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          },
+          {
+            "name": "Server-2",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OTE2YjUwMDY3YzhlLTAzYzgtOTNlNC1lYzBkLWIzNjVmN2Uy/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "10:30",
+        "event": "West IndiesvsAustraliaWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZDU3NjA3NzY4OTFjLWRkNzktMjE4NC1lN2E1LTkwNWRmY2Fm/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "14:22",
+        "event": "2nd Qualifying | Circuit de Spa-Francorchamps |Watch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L1UTYxkjMzEGZkV2MtkjNxIWLjVmZ00iYjFGOtgTMmBDOxMmN/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          },
+          {
+            "name": "Server-2",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NGRiMTQ4MmUyNmQwLWQ4YjktNmU1NC04MzllLWViNDg3MDJm/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          },
+          {
+            "name": "Server-3",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDU1YzcxM2M4NDQ5LWIyYWEtNmE4NC0xMzY0LWZlMWUxYTc3/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "08:30",
+        "event": "WorldSBK-SSP | Round 8 | HungaryWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NGY2YTlkMjFlMzNiLTNlN2ItZTQ4NC1jMWVjLWY5ZjU0Mzg5/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "13:00",
+        "event": "AZ Alkmaar0-2Olympiakos PiraeusWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWU2NGJkMWRmZTM1LWFhOWEtZGU4NC1mN2Y1LWM5YTA4ODk3/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "13:00",
+        "event": "Rangers1-2MiddlesbroughWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZTkwZTUzMTE3MjEwLWYyM2ItNjE4NC04ZjVkLWNlY2ZiOWI2/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "14:00",
+        "event": "Stoke City0-0WolvesWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NjE4YmE5OWMzMmQxLTEwNjktZTM0NC1jOTY0LTNlOGM3ZDU2/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          },
+          {
+            "name": "Server-2",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NjU5NGU0NzYwMGEwLTIwZmItMWNiNC1iMDI4LTYzZmM5NjU3/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "14:00",
+        "event": "Hull FCvsHuddersfield GiantsWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MjVhMzNjZTkxZTdkLWRmZGItMWM4NC03Y2Q3LWU2NjQyMWU5/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "12:45",
+        "event": "Piast Gliwice0-1Gornik ZabrzeWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YmJkOTI5YjUyZjQ3LTVlMzgtYjBiNC03YTg2LTY2MGZlN2Y4/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "09:00",
+        "event": "ATP Tour 250 Bastad, Gstaad, Los Cabos, WTA Tour 250 Budapest, Hamburg, Iasi  🎾Watch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1N2RiNWY4OGU0MWUwLTk5MmEtZDk2NC1jZDM3LTE0Yzg5ZDUz/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          },
+          {
+            "name": "Server-2",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmNhYTQ1ODQ5MGE2LTljYTktZGY1NC01NDRlLWMyZTQ3NjBm/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "13:00",
+        "event": "Gais3-0HalmstadWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1Y2JlNWExNDYwZjQ5LWIxZjgtZDg4NC1kMGJhLTVlN2I1YWQ5/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "13:00",
+        "event": "IF Brommapojkarna2-3Malmo FFWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTgwODFiMzBlYjNjLTcyMzktZTUwNC0wOWRkLTY3NzE3NWUy/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "12:30",
+        "event": "Senior Open Championship\t2025 - Third RoundWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZTg2ZTEzZTk2ZTQzLThiMmEtYzkxNC04ODNhLTM5MThlZGQz/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          },
+          {
+            "name": "Server-2",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NmNmOTRlN2Q4ZDg2LTlhNTktYjEyNC1iZGVkLWEzNjI5NzBh/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          },
+          {
+            "name": "Server-3",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWQwNWM4NGU1NzQ0LWIzZTgtOTUyNC0wMjA2LWNjMWE3YTQw/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "09:15",
+        "event": "EnglandvsIndiaWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YjgyMDkyMDlhMTc0LTVmZmItMGQ4NC01NzcyLWY3ZDU2ODM1/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          },
+          {
+            "name": "Server-2",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OTE2YjUwMDY3YzhlLTAzYzgtOTNlNC1lYzBkLWIzNjVmN2Uy/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "10:30",
+        "event": "West IndiesvsAustraliaWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZDU3NjA3NzY4OTFjLWRkNzktMjE4NC1lN2E1LTkwNWRmY2Fm/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "09:45",
+        "event": "Tour de France | Stage 20 - Men | The Breakaway 🚴Watch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NTE5MmVjYzhmYTE3LWZkMDgtZDQ2NC0xMzU3LWE5MmE0Mzk3/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          },
+          {
+            "name": "Server-2",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWQwNWM4NGU1NzQ0LWIzZTgtOTUyNC0wMjA2LWNjMWE3YTQw/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "14:22",
+        "event": "2nd Qualifying | Circuit de Spa-Francorchamps |Watch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L1UTYxkjMzEGZkV2MtkjNxIWLjVmZ00iYjFGOtgTMmBDOxMmN/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          },
+          {
+            "name": "Server-2",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NGRiMTQ4MmUyNmQwLWQ4YjktNmU1NC04MzllLWViNDg3MDJm/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          },
+          {
+            "name": "Server-3",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDU1YzcxM2M4NDQ5LWIyYWEtNmE4NC0xMzY0LWZlMWUxYTc3/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "08:30",
+        "event": "WorldSBK-SSP | Round 8 | HungaryWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NGY2YTlkMjFlMzNiLTNlN2ItZTQ4NC1jMWVjLWY5ZjU0Mzg5/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "13:00",
+        "event": "AZ Alkmaar0-2Olympiakos PiraeusWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWU2NGJkMWRmZTM1LWFhOWEtZGU4NC1mN2Y1LWM5YTA4ODk3/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "13:00",
+        "event": "Hamburger SV0-3LyonWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDg4OGIzN2Y1YzVlLWU3ZWEtNTVmNC02Mzg1LTY5NzY0NjUz/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "13:00",
+        "event": "Rangers1-2MiddlesbroughWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZTkwZTUzMTE3MjEwLWYyM2ItNjE4NC04ZjVkLWNlY2ZiOWI2/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "14:00",
+        "event": "Luton0-0TottenhamWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YmU1MGM2ZDM3MzUzLTE0MjktODk3NC1lMDU5LWYxYTU2YTlh/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          },
+          {
+            "name": "Server-2",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NzJhZTA0ODBkNjlkLThiZDgtZjIyNC02NzM5LTJlYmVmMjYw/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "14:00",
+        "event": "Stoke City0-0WolvesWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NjE4YmE5OWMzMmQxLTEwNjktZTM0NC1jOTY0LTNlOGM3ZDU2/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          },
+          {
+            "name": "Server-2",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NjU5NGU0NzYwMGEwLTIwZmItMWNiNC1iMDI4LTYzZmM5NjU3/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "10:00",
+        "event": "MXGP of Czech Republic: Day 1Watch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LhVGN4gTZxgTM0Y2NtcTNmFWLjNmM00SM3EGMtUzM0kjN3MTO/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "14:00",
+        "event": "Hull FCvsHuddersfield GiantsWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MjVhMzNjZTkxZTdkLWRmZGItMWM4NC03Y2Q3LWU2NjQyMWU5/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "09:00",
+        "event": "ATP Tour 250 Bastad, Gstaad, Los Cabos, WTA Tour 250 Budapest, Hamburg, Iasi  🎾Watch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1N2RiNWY4OGU0MWUwLTk5MmEtZDk2NC1jZDM3LTE0Yzg5ZDUz/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          },
+          {
+            "name": "Server-2",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmNhYTQ1ODQ5MGE2LTljYTktZGY1NC01NDRlLWMyZTQ3NjBm/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "13:00",
+        "event": "Gais3-0HalmstadWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1Y2JlNWExNDYwZjQ5LWIxZjgtZDg4NC1kMGJhLTVlN2I1YWQ5/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "13:00",
+        "event": "IF Brommapojkarna2-3Malmo FFWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTgwODFiMzBlYjNjLTcyMzktZTUwNC0wOWRkLTY3NzE3NWUy/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "12:30",
+        "event": "Senior Open Championship\t2025 - Third RoundWatch",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZTg2ZTEzZTk2ZTQzLThiMmEtYzkxNC04ODNhLTM5MThlZGQz/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          },
+          {
+            "name": "Server-2",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NmNmOTRlN2Q4ZDg2LTlhNTktYjEyNC1iZGVkLWEzNjI5NzBh/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          },
+          {
+            "name": "Server-3",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWQwNWM4NGU1NzQ0LWIzZTgtOTUyNC0wMjA2LWNjMWE3YTQw/master.m3u8",
             "api": "",
             "scheme": "0"
           }
