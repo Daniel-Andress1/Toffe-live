@@ -1,0 +1,316 @@
+{
+  "Saturday 26th July 2025 - Schedule Time UK GMT": {
+    "Soccer": [
+      {
+        "time": "00:00",
+        "event": "Philadelphia Phillies vs. New York Yankees",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MmQ4YjNmYzE5YTY1LTZjZDktMTEwNC05NzExLTc2M2QwNGE2/master.m3u8?md5=cZE_3TLmQzR-Sycku_VQJg&expires=1753583513&t=1753540313",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "00:00",
+        "event": "Cleveland Guardians vs. Kansas City Royals",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGY0YTI5ZjVkMGRiLTkyNTktODgyNC03OTQ3LTBiOWIzYzRm/master.m3u8?md5=mf680r7Cwuvw0TtsXaPjAQ&expires=1753583522&t=1753540322",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "00:00",
+        "event": "Toronto Blue Jays vs. Detroit Tigers",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YWJmNWYzYjhjNjY2LWE1OGItZmI2NC1iNTUwLTBkNDgwNDg4/master.m3u8?md5=RAxW40V8NIyY-YYdb8aaow&expires=1753583531&t=1753540331",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "00:00",
+        "event": "Arizona Diamondbacks vs. Pittsburgh Pirates",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OGE0ODRhOWFhNTdhLTllYjktNTA4NC0zZTNiLTgyZGI3MGQ3/master.m3u8?md5=9HUgymQ6JDNOSbUTwwSDHw&expires=1753583540&t=1753540340",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "00:00",
+        "event": "Tampa Bay Rays vs. Cincinnati Reds",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MmZlYmFjYzI2MDc1LWYzZjktNjk3NC1lZDRhLTg5MDQ1NDU4/master.m3u8?md5=IWx0HRENYpWNboYtolgK9Q&expires=1753583549&t=1753540349",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "00:00",
+        "event": "Colorado Rockies vs. Baltimore Orioles",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmM0NzVlNjM1NTY0LWFjZWEtZDI4NC1kZjllLWVjZDc3N2E4/master.m3u8?md5=3cSwwcvy4lD75i87lqvUAg&expires=1753583557&t=1753540357",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "00:00",
+        "event": "Atlanta Braves vs. Texas Rangers",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTUxZDg4MGIwYjVhLWNjZDktY2EwNC01ODA5LTZkOTViMDE5/master.m3u8?md5=RSgfOb2J-aB-shQxrEwPmw&expires=1753583566&t=1753540366",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "00:00",
+        "event": "Chicago Cubs vs. Chicago White Sox",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZjA3N2MwNjE0OWVkLTljZDgtMzAxNC05OTA4LTdhZTgzNDk5/master.m3u8?md5=VIoafNniqNP56BcDsGyVtw&expires=1753583576&t=1753540376",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "00:00",
+        "event": "Miami Marlins vs. Milwaukee Brewers",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MjU5MGQ0MTJkM2FkLTJhYTgtNDVkNC1iNGEwLTgyOTZhMDJj/master.m3u8?md5=XhLDVbnDcp-hKsUqqG_JMA&expires=1753583584&t=1753540384",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "00:00",
+        "event": "Athletics vs. Houston Astros",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEzZjZhMzYwNTQ3LTU4OWEtYmY1NC1hMTYzLTRiODA1MWZl/master.m3u8?md5=tKTnJyp--2b1waONHa8LmA&expires=1753583593&t=1753540393",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "00:00",
+        "event": "Washington Nationals vs. Minnesota Twins",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YjBlOGIzMjEzNzg1LTMyYzktNDA5NC00MTIyLTgxOGYyODU0/master.m3u8?md5=9mbZxA98Iub-qL3pd1-YeA&expires=1753583602&t=1753540402",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "00:00",
+        "event": "Los Angeles Dodgers vs. Boston Red Sox",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM3YjUwMzQxMDZmLTZiZDktY2E4NC1lNzZkLWNiNmNlOGUw/master.m3u8?md5=FlwjoMJHVQU6rMkzcwa2vQ&expires=1753583611&t=1753540411",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "00:00",
+        "event": "San Diego Padres vs. St. Louis Cardinals",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1Yjk4YjU1MjgzYTI5LTc0OTgtZDJhNC05ZmFmLTNkMjhkNjQ4/master.m3u8?md5=985WyGEP7aPUJtV68htpbg&expires=1753583622&t=1753540422",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "00:00",
+        "event": "New York Mets vs. San Francisco Giants",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1M2IyYTE4OGFmNjY5LWRlMDktYTc0NC0yMjg1LWU0MjAyNDU1/master.m3u8?md5=qvGkHBGrkhhV7VlD-5Afzw&expires=1753583631&t=1753540431",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "00:00",
+        "event": "Seattle Mariners vs. Los Angeles Angels",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWU2MzFkOTA2ZDFiLTQ4ZTktYTQyNC1lMWNiLWU5YzZhODVm/master.m3u8?md5=MmFAot3WmxCTrDXNLlir3w&expires=1753583639&t=1753540439",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "00:00",
+        "event": "Sparks at Liberty",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGFhODhkOTAwM2Q3LTIwYWEtNmE2NC01ZWU0LWRmMDMxMjgw/master.m3u8?md5=mu4Fbg0wLio3H1RHs0yu_g&expires=1753583648&t=1753540448",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "00:00",
+        "event": "Storm at Mystics",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ODJmYjIwOWQ2OWI1LTgzYWItODk2NC0zZmNjLTExYTdjOWM3/master.m3u8?md5=DVphJ2gqo8V5mWs5aqE8BA&expires=1753583657&t=1753540457",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "00:00",
+        "event": "Luton Town vs Tottenham Hotspur",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LiVWNwMmNkNzNzUzMtEDNykTL4kzN00SZwUTOtYWMhVjNhlTY/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          },
+          {
+            "name": "Server-2",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YmU1MGM2ZDM3MzUzLTE0MjktODk3NC1lMDU5LWYxYTU2YTlh/master.m3u8?md5=hDgtupBNw9d8KZSNyrgB-w&expires=1753583666&t=1753540466",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "00:00",
+        "event": "Everton vs Bournemouth",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L0IDOhVmMyQDM5EWYtM2N3EWLmlTZ00yYkZWMtIWNyMGO2QWO/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          },
+          {
+            "name": "Server-2",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDI4YWUyMjQwOWFhLWM3N2EtZjllNC1jZGYxLWI1MmM4NmQ5/master.m3u8?md5=Syyn_h5a4G5-EHeVOxLsAg&expires=1753583675&t=1753540475",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "00:00",
+        "event": "Manchester United vs West Ham",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L0IDOhVmMyQDM5EWYtM2N3EWLmlTZ00yYkZWMtIWNyMGO2QWO/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          },
+          {
+            "name": "Server-2",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDI4YWUyMjQwOWFhLWM3N2EtZjllNC1jZGYxLWI1MmM4NmQ5/master.m3u8?md5=2yLI7ovdT0y7RKnoSubsAg&expires=1753583684&t=1753540484",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "00:00",
+        "event": "Inter Miami vs Cincinnati",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmFkOWQ4ZjQyMDQ3LWRkYzktNzhlNC0yOGFlLTVhMGEzNjVh/master.m3u8?md5=xx0VFqUjUe1LPRJ_xQOYNA&expires=1753583693&t=1753540493",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      },
+      {
+        "time": "00:00",
+        "event": "AEW: Saturday Night Collision",
+        "channels": [
+          {
+            "name": "Server-1",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=NbZT44OyqwZFh1Y2ASLAWg&expires=1753583702&t=1753540502",
+            "api": "",
+            "scheme": "0"
+          },
+          {
+            "name": "Server-2",
+            "link": "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LjNmMhFTYzQmZ2I2YtkTNwIWLmdjY00yNhRTNtAzNldDZyYmM/master.m3u8",
+            "api": "",
+            "scheme": "0"
+          }
+        ],
+        "channels2": []
+      }
+    ]
+  }
+}
