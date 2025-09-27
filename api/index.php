@@ -1,17 +1,26 @@
 <?php
-// Target URL
+// Get channel name from the request URI
+$path = trim(parse_url($_SERVER["REQUEST_URI"], PHP_URL_PATH), "/");
+$parts = explode("/", $path);
+$channelName = end($parts); // e.g. TNT_Sports_1
+
+if (!$channelName) {
+    http_response_code(400);
+    echo "Missing channel name.";
+    exit;
+}
+
+// Beesports authorize API
 $url = "https://beesports.net/authorize-channel";
 
-// The channel URL you want to authorize
-$channelUrl = "https://live_tv.starcdnup.com/TNT_Sports_1/index.m3u8";
+// Build channel URL
+$channelUrl = "https://live_tv.starcdnup.com/" . $channelName . "/index.m3u8";
 
 // JSON body
-$data = [
-    "channel" => $channelUrl
-];
+$data = ["channel" => $channelUrl];
 $jsonData = json_encode($data);
 
-// Stream context options for POST request
+// Stream context options
 $options = [
     "http" => [
         "method"  => "POST",
@@ -24,12 +33,27 @@ $options = [
 
 $context  = stream_context_create($options);
 
-// Execute POST request
+// Execute POST
 $response = file_get_contents($url, false, $context);
 
-// Check for errors
 if ($response === false) {
-    echo "Error sending request.";
-} else {
-    echo $response;
+    http_response_code(500);
+    echo "Authorization request failed.";
+    exit;
 }
+
+// Decode JSON response
+$json = json_decode($response, true);
+
+if (!$json || empty($json["channels"][0])) {
+    http_response_code(500);
+    echo "Invalid response from authorize API.";
+    exit;
+}
+
+// Get final redirect URL
+$finalUrl = $json["channels"][0];
+
+// Redirect user
+header("Location: " . $finalUrl);
+exit;
