@@ -1,5 +1,5 @@
 {
-  "name": "api",
+  "name": "beesports-api",
   "version": "1.0.0",
   "description": "Serverless API to authorize Beesports channels on Vercel",
   "main": "api/index.js",
@@ -12,7 +12,7 @@
   },
   "type": "module",
   "engines": {
-    "node": "18.x"
+    "node": "22.x"
   },
   "author": "Your Name",
   "license": "MIT"
