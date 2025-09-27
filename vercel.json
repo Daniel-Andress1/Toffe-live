@@ -6,8 +6,8 @@
   },
   "routes": [
     {
-      "src": "/(.*)",
-      "dest": "/api/index.php"
+      "src": "/api/index/(.*)",
+      "dest": "/api/index.php?id=$1"
     }
   ]
 }
