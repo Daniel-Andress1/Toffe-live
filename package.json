@@ -1,0 +1,19 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Serverless API to authorize Beesports channels on Vercel",
+  "main": "api/index.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "node api/index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.4.0"
+  },
+  "type": "module",
+  "engines": {
+    "node": "18.x"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
