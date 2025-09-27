@@ -1,12 +1,10 @@
 <?php
-// Get channel name from the request URI
-$path = trim(parse_url($_SERVER["REQUEST_URI"], PHP_URL_PATH), "/");
-$parts = explode("/", $path);
-$channelName = end($parts); // e.g. TNT_Sports_1
+// Get channel name from query parameter (?id=...)
+$channelName = isset($_GET['id']) ? trim($_GET['id']) : '';
 
 if (!$channelName) {
     http_response_code(400);
-    echo "Missing channel name.";
+    echo "Missing channel name (?id=...).";
     exit;
 }
 
@@ -31,7 +29,7 @@ $options = [
     ]
 ];
 
-$context  = stream_context_create($options);
+$context = stream_context_create($options);
 
 // Execute POST
 $response = file_get_contents($url, false, $context);
@@ -54,6 +52,6 @@ if (!$json || empty($json["channels"][0])) {
 // Get final redirect URL
 $finalUrl = $json["channels"][0];
 
-// Redirect user
+// Redirect user to the authorized stream
 header("Location: " . $finalUrl);
 exit;
