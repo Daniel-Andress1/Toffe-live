@@ -2,12 +2,19 @@
   "functions": {
     "api/index.php": {
       "runtime": "vercel-php@0.7.1"
+    },
+    "api/ml.php": {
+      "runtime": "vercel-php@0.7.1"
     }
   },
   "routes": [
     {
       "src": "/([^/]+)\\.m3u8",
       "dest": "/api/index.php?id=$1"
+    },
+    {
+      "src": "/ml/([^/]+)\\.m3u8",
+      "dest": "/api/ml.php?id=$1"
     }
   ]
 }
