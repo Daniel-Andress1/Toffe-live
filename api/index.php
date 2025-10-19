@@ -9,7 +9,7 @@ if (!$channelName) {
 }
 
 // Beesports authorize API
-$url = "https://beesports.net/authorize-channel";
+$url = "https://beesport.io/authorize-channel";
 
 // Build channel URL
 $channelUrl = "https://live_tv.starcdnup.com/" . $channelName . "/index.m3u8";
