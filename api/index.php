@@ -1,57 +1,57 @@
 <?php
-// Get channel name from query parameter (?id=...)
-$channelName = isset($_GET['id']) ? trim($_GET['id']) : '';
-
-if (!$channelName) {
+// Get match path from URL parameter, e.g., ?id=match/atp-tour-250-wta-tour-250-atp-2025
+if (!isset($_GET['id'])) {
     http_response_code(400);
-    echo "Missing channel name (?id=...).";
-    exit;
+    exit("Missing 'id' parameter");
 }
 
-// Beesports authorize API
-$url = "https://beesport.io/authorize-channel";
+$matchPath = $_GET['id'];
+$baseUrl = "https://tiksports.eu/";
+$url = $baseUrl . $matchPath;
 
-// Build channel URL
-$channelUrl = "https://live_tv.starcdnup.com/" . $channelName . "/index.m3u8";
-
-// JSON body
-$data = ["channel" => $channelUrl];
-$jsonData = json_encode($data);
-
-// Stream context options
+// Fetch HTML with headers
 $options = [
     "http" => [
-        "method"  => "POST",
-        "header"  => "Content-Type: application/json\r\n" .
-                     "Accept: application/json\r\n",
-        "content" => $jsonData,
-        "ignore_errors" => true
+        "method" => "GET",
+        "header" => "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64)\r\n"
     ]
 ];
-
 $context = stream_context_create($options);
+$html = @file_get_contents($url, false, $context);
 
-// Execute POST
-$response = file_get_contents($url, false, $context);
-
-if ($response === false) {
+if (!$html) {
     http_response_code(500);
-    echo "Authorization request failed.";
-    exit;
+    exit("Failed to fetch page");
 }
 
-// Decode JSON response
-$json = json_decode($response, true);
+// Parse HTML
+libxml_use_internal_errors(true);
+$dom = new DOMDocument();
+$dom->loadHTML($html);
+libxml_clear_errors();
 
-if (!$json || empty($json["channels"][0])) {
-    http_response_code(500);
-    echo "Invalid response from authorize API.";
-    exit;
+// Find iframe
+$xpath = new DOMXPath($dom);
+$iframes = $xpath->query('//div[contains(@class,"iframe-wrapper")]/iframe');
+
+if ($iframes->length === 0) {
+    http_response_code(404);
+    exit("No iframe found");
 }
 
-// Get final redirect URL
-$finalUrl = $json["channels"][0];
+$iframeSrc = $iframes->item(0)->getAttribute('src');
 
-// Redirect user to the authorized stream
-header("Location: " . $finalUrl);
+// Extract 'link' parameter
+$parts = parse_url($iframeSrc);
+parse_str($parts['query'], $queryParams);
+
+if (!isset($queryParams['link'])) {
+    http_response_code(404);
+    exit("No link parameter found");
+}
+
+// Decode the URL and redirect directly
+$m3u8Url = urldecode($queryParams['link']);
+header("Location: " . $m3u8Url);
 exit;
+?>
