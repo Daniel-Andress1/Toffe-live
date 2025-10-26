@@ -9,12 +9,12 @@
   },
   "routes": [
     {
-      "src": "/([^/]+)\\.m3u8",
+      "src": "/(match/.+)",
       "dest": "/api/index.php?id=$1"
     },
-    {
-      "src": "/ml/([^/]+)\\.m3u8",
-      "dest": "/api/ml.php?id=$1"
-    }
+   { 
+     "src": "/ml/([^/]+)\\.m3u8",
+     "dest": "/api/ml.php?id=$1" 
+   }
   ]
 }
