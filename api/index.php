@@ -1,4 +1,9 @@
 <?php
+// Disable any buffering to ensure headers are sent correctly
+ob_clean();
+flush();
+
+// Validate input
 if (!isset($_GET['id'])) {
     http_response_code(400);
     exit("Missing 'id' parameter");
@@ -48,9 +53,12 @@ if (!isset($queryParams['link'])) {
 
 $m3u8Url = urldecode($queryParams['link']);
 
-// Output the link directly for external players
-header("Content-Type: text/plain");
+// 🔥 Force direct redirect to stream URL
 header("Access-Control-Allow-Origin: *");
-echo $m3u8Url;
+header("Cache-Control: no-store, no-cache, must-revalidate, max-age=0");
+header("Pragma: no-cache");
+header("Expires: 0");
+header("Content-Type: application/vnd.apple.mpegurl");
+header("Location: $m3u8Url", true, 302);
 exit;
 ?>
