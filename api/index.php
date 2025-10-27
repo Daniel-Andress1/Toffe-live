@@ -1,5 +1,4 @@
 <?php
-// Get match path from URL parameter, e.g., ?id=match/atp-tour-250-wta-tour-250-atp-2025
 if (!isset($_GET['id'])) {
     http_response_code(400);
     exit("Missing 'id' parameter");
@@ -9,7 +8,7 @@ $matchPath = $_GET['id'];
 $baseUrl = "https://tiksports.eu/";
 $url = $baseUrl . $matchPath;
 
-// Fetch HTML with headers
+// Fetch HTML
 $options = [
     "http" => [
         "method" => "GET",
@@ -30,7 +29,6 @@ $dom = new DOMDocument();
 $dom->loadHTML($html);
 libxml_clear_errors();
 
-// Find iframe
 $xpath = new DOMXPath($dom);
 $iframes = $xpath->query('//div[contains(@class,"iframe-wrapper")]/iframe');
 
@@ -40,8 +38,6 @@ if ($iframes->length === 0) {
 }
 
 $iframeSrc = $iframes->item(0)->getAttribute('src');
-
-// Extract 'link' parameter
 $parts = parse_url($iframeSrc);
 parse_str($parts['query'], $queryParams);
 
@@ -50,8 +46,11 @@ if (!isset($queryParams['link'])) {
     exit("No link parameter found");
 }
 
-// Decode the URL and redirect directly
 $m3u8Url = urldecode($queryParams['link']);
-header("Location: " . $m3u8Url);
+
+// Output the link directly for external players
+header("Content-Type: text/plain");
+header("Access-Control-Allow-Origin: *");
+echo $m3u8Url;
 exit;
 ?>
